@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/meiigo/gkit/log"
-	"github.com/meiigo/gkit/x/host"
+	"github.com/go-ashe/gkit/log"
+	"github.com/go-ashe/gkit/x/host"
 	"github.com/pkg/errors"
 )
 

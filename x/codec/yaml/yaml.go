@@ -1,7 +1,7 @@
 package yaml
 
 import (
-	"github.com/meiigo/gkit/x/codec"
+	"github.com/go-ashe/gkit/x/codec"
 	"gopkg.in/yaml.v3"
 )
 

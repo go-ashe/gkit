@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/afex/hystrix-go/hystrix"
-	"github.com/meiigo/gkit/log"
-	"github.com/meiigo/gkit/middleware/circuitbreaker"
+	"github.com/go-ashe/gkit/log"
+	"github.com/go-ashe/gkit/middleware/circuitbreaker"
 	"google.golang.org/grpc"
 	secure "google.golang.org/grpc/credentials/insecure"
 )

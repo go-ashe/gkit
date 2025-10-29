@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 )
 
 // go test -v *.go -test.run=^TestLogger$

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/meiigo/gkit/examples/blog/api"
+	"github.com/go-ashe/gkit/examples/blog/api"
 	"github.com/stretchr/testify/assert"
 )
 

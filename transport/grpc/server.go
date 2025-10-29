@@ -14,9 +14,9 @@ import (
 	"google.golang.org/grpc/health"
 	"google.golang.org/grpc/health/grpc_health_v1"
 
-	"github.com/meiigo/gkit/log"
-	"github.com/meiigo/gkit/transport"
-	"github.com/meiigo/gkit/x/host"
+	"github.com/go-ashe/gkit/log"
+	"github.com/go-ashe/gkit/transport"
+	"github.com/go-ashe/gkit/x/host"
 )
 
 var (

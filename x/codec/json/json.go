@@ -3,7 +3,7 @@ package json
 import (
 	"encoding/json"
 
-	"github.com/meiigo/gkit/x/codec"
+	"github.com/go-ashe/gkit/x/codec"
 )
 
 func init() {

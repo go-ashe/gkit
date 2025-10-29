@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	"github.com/meiigo/gkit/transport"
+	"github.com/go-ashe/gkit/transport"
 	"google.golang.org/grpc/metadata"
 )
 

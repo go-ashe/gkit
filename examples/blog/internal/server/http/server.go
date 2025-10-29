@@ -3,13 +3,13 @@ package http
 import (
 	"fmt"
 
-	"github.com/meiigo/gkit/examples/blog/internal/config"
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/examples/blog/internal/config"
+	"github.com/go-ashe/gkit/log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/examples/blog/internal/service"
-	"github.com/meiigo/gkit/transport/http"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/examples/blog/internal/service"
+	"github.com/go-ashe/gkit/transport/http"
 )
 
 type Server struct {

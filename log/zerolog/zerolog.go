@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/pkgerrors"
 )

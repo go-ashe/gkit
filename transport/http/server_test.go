@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	transhttp "github.com/meiigo/gkit/transport/http"
+	transhttp "github.com/go-ashe/gkit/transport/http"
 )
 
 func TestServer_Start(t *testing.T) {

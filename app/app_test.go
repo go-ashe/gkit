@@ -8,9 +8,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/mux"
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/monitor"
-	transhttp "github.com/meiigo/gkit/transport/http"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/monitor"
+	transhttp "github.com/go-ashe/gkit/transport/http"
 )
 
 // go test -v *.go -test.run=TestApp

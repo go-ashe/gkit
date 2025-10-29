@@ -7,10 +7,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/meiigo/gkit/monitor/env"
-	"github.com/meiigo/gkit/monitor/metric"
-	"github.com/meiigo/gkit/monitor/profile"
-	transhttp "github.com/meiigo/gkit/transport/http"
+	"github.com/go-ashe/gkit/monitor/env"
+	"github.com/go-ashe/gkit/monitor/metric"
+	"github.com/go-ashe/gkit/monitor/profile"
+	transhttp "github.com/go-ashe/gkit/transport/http"
 )
 
 type Server struct {

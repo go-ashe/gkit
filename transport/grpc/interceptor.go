@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/meiigo/gkit/transport"
+	"github.com/go-ashe/gkit/transport"
 )
 
 // unaryServerInterceptor is a gRPC unary server interceptor

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 )

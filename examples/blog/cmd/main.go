@@ -3,12 +3,12 @@ package main
 import (
 	"flag"
 
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/examples/blog/internal/config"
-	"github.com/meiigo/gkit/examples/blog/internal/server/grpc"
-	"github.com/meiigo/gkit/examples/blog/internal/server/http"
-	"github.com/meiigo/gkit/examples/blog/internal/service"
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/examples/blog/internal/config"
+	"github.com/go-ashe/gkit/examples/blog/internal/server/grpc"
+	"github.com/go-ashe/gkit/examples/blog/internal/server/http"
+	"github.com/go-ashe/gkit/examples/blog/internal/service"
+	"github.com/go-ashe/gkit/log"
 )
 
 // go build -ldflags "-X main.Version=x.y.z"

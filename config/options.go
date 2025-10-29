@@ -3,7 +3,7 @@ package config
 import (
 	"fmt"
 
-	"github.com/meiigo/gkit/x/codec"
+	"github.com/go-ashe/gkit/x/codec"
 )
 
 // Decoder is config decoder.

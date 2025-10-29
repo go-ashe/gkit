@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/meiigo/gkit/config"
+	"github.com/go-ashe/gkit/config"
 )
 
 const (

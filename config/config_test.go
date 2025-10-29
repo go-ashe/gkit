@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	_ "github.com/meiigo/gkit/x/codec/json"
-	_ "github.com/meiigo/gkit/x/codec/yaml"
+	_ "github.com/go-ashe/gkit/x/codec/json"
+	_ "github.com/go-ashe/gkit/x/codec/yaml"
 	"github.com/stretchr/testify/assert"
 )
 

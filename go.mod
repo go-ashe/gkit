@@ -1,4 +1,4 @@
-module github.com/meiigo/gkit
+module github.com/go-ashe/gkit
 
 go 1.24
 

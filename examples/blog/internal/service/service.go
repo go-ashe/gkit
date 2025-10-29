@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/meiigo/gkit/examples/blog/api"
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/examples/blog/api"
+	"github.com/go-ashe/gkit/log"
 )
 
 type BlogService struct {

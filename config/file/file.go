@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/meiigo/gkit/config"
+	"github.com/go-ashe/gkit/config"
 )
 
 type file struct {

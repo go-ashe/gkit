@@ -3,7 +3,7 @@ package zerolog
 import (
 	"io"
 
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 )
 
 type Mode uint8

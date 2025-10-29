@@ -2,7 +2,7 @@ package http
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/meiigo/gkit/middleware/requestid"
+	"github.com/go-ashe/gkit/middleware/requestid"
 )
 
 func (s *Server) Set(r *gin.Engine) {

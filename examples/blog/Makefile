@@ -1,5 +1,5 @@
 PWD=$(shell pwd)
-GKIT=$(GOPATH)/pkg/mod/github.com/meiigo/gkit
+GKIT=$(GOPATH)/pkg/mod/github.com/go-ashe/gkit
 API_PROTO_FILES=$(shell find api -name *.proto)
 
 ## 将 phony 对象当做命令执行而非执行文件执行

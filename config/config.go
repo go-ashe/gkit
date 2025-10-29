@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 )
 
 // Config is a config interface.

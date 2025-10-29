@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/monitor"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/monitor"
 )
 
 type App struct {

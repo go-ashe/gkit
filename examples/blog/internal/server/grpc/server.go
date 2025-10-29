@@ -3,9 +3,9 @@ package grpc
 import (
 	"fmt"
 
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/examples/blog/api"
-	tg "github.com/meiigo/gkit/transport/grpc"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/examples/blog/api"
+	tg "github.com/go-ashe/gkit/transport/grpc"
 	"google.golang.org/grpc"
 )
 

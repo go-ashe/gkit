@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/afex/hystrix-go/hystrix"
-	"github.com/meiigo/gkit/log"
+	"github.com/go-ashe/gkit/log"
 	"google.golang.org/grpc"
 )
 

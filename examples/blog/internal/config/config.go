@@ -3,14 +3,14 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/meiigo/gkit/app"
-	"github.com/meiigo/gkit/log"
-	"github.com/meiigo/gkit/monitor"
+	"github.com/go-ashe/gkit/app"
+	"github.com/go-ashe/gkit/log"
+	"github.com/go-ashe/gkit/monitor"
 
-	"github.com/meiigo/gkit/config"
-	"github.com/meiigo/gkit/config/file"
+	"github.com/go-ashe/gkit/config"
+	"github.com/go-ashe/gkit/config/file"
 
-	_ "github.com/meiigo/gkit/x/codec/yaml"
+	_ "github.com/go-ashe/gkit/x/codec/yaml"
 )
 
 type Config struct {
